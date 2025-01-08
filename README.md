@@ -4,6 +4,6 @@
 
 
 Тест-кейсы для приложения " Интернет-магазин" 
-[ссылка на тест-кейсы в программе Qase](https://app.qase.io/project/G9?previewMode=side&suite=225&tab=properties&view=2)
+[ссылка на тест-кейсы в программе Qase](https://app.qase.io/project/G9?previewMode=side&suite=225&tab=properties&view=1)
 
-[ссылка на тест-кейсы в pdf](https://drive.google.com/file/d/1u1OOP4c6ZD2VOCcltTDvRvAu43gdZLCZ/view?usp=sharing)
+[ссылка на тест-кейсы в pdf](https://drive.google.com/file/d/1pAWHELVsfrFaBNLygYtfFq765LZ6WJcf/view?usp=sharing)
